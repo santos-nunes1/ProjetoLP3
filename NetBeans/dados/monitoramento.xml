@@ -1,0 +1,39 @@
+<cenario>
+<retangulos>
+<retangulo>
+<posx>20</posx>
+<posy>20</posy>
+<largura>50</largura>
+<altura>1</altura>
+<item>Log:public void ejb.beans.UsuarioBean.save(ejb.entities.Usuario)</item>
+</retangulo>
+<retangulo>
+<posx>90</posx>
+<posy>20</posy>
+<largura>50</largura>
+<altura>6</altura>
+<item>Log:public void ejb.beans.UsuarioBean.SucessoAutenticacao()</item>
+</retangulo>
+<retangulo>
+<posx>160</posx>
+<posy>20</posy>
+<largura>50</largura>
+<altura>1</altura>
+<item>Log:public boolean ejb.beans.UsuarioBean.validaSenha(java.lang.String,java.lang.String)</item>
+</retangulo>
+<retangulo>
+<posx>230</posx>
+<posy>20</posy>
+<largura>50</largura>
+<altura>33</altura>
+<item>Log:public void ejb.beans.UsuarioBean.ErroAutenticacao()</item>
+</retangulo>
+<retangulo>
+<posx>300</posx>
+<posy>20</posy>
+<largura>50</largura>
+<altura>0</altura>
+<item>Log:public java.util.List ejb.beans.UsuarioBean.list()</item>
+</retangulo>
+</retangulos>
+</cenario>
