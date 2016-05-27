@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<collection>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5798865</lat>
+ <login>Teste </login>
+ <lon>-46.6776294</lon>
+ <timestamp>2015-11-23 17:32:28</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.579857</lat>
+ <login>Teste </login>
+ <lon>-46.6775734</lon>
+ <timestamp>2015-11-23 17:32:57</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5772102</lat>
+ <login>Teste </login>
+ <lon>-46.6726298</lon>
+ <timestamp>2015-11-23 17:34:16</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5770627</lat>
+ <login>Teste </login>
+ <lon>-46.6715365</lon>
+ <timestamp>2015-11-23 17:36:09</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5752886</lat>
+ <login>Teste </login>
+ <lon>-46.6687599</lon>
+ <timestamp>2015-11-23 17:38:54</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.574615</lat>
+ <login>Teste </login>
+ <lon>-46.6678603</lon>
+ <timestamp>2015-11-23 17:39:38</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5732846</lat>
+ <login>Teste </login>
+ <lon>-46.6660196</lon>
+ <timestamp>2015-11-23 17:39:54</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.573212</lat>
+ <login>Teste </login>
+ <lon>-46.6658922</lon>
+ <timestamp>2015-11-23 17:40:23</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5730788</lat>
+ <login>Teste </login>
+ <lon>-46.6656766</lon>
+ <timestamp>2015-11-23 17:40:54</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5730785</lat>
+ <login>Teste </login>
+ <lon>-46.6656769</lon>
+ <timestamp>2015-11-23 17:41:24</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.572864</lat>
+ <login>Teste </login>
+ <lon>-46.665399</lon>
+ <timestamp>2015-11-23 17:42:00</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5727485</lat>
+ <login>Teste </login>
+ <lon>-46.6652629</lon>
+ <timestamp>2015-11-23 17:42:26</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5727155</lat>
+ <login>Teste </login>
+ <lon>-46.6652364</lon>
+ <timestamp>2015-11-23 17:42:57</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5721361</lat>
+ <login>Teste </login>
+ <lon>-46.664404</lon>
+ <timestamp>2015-11-23 17:44:27</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5710819</lat>
+ <login>Teste </login>
+ <lon>-46.6629173</lon>
+ <timestamp>2015-11-23 17:45:28</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5705679</lat>
+ <login>Teste </login>
+ <lon>-46.6623062</lon>
+ <timestamp>2015-11-23 17:46:32</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5691532</lat>
+ <login>Teste </login>
+ <lon>-46.660941</lon>
+ <timestamp>2015-11-23 17:48:36</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5602106</lat>
+ <login>Teste </login>
+ <lon>-46.6548171</lon>
+ <timestamp>2015-11-23 17:52:58</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5596604</lat>
+ <login>Teste </login>
+ <lon>-46.6544514</lon>
+ <timestamp>2015-11-23 17:53:29</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5585502</lat>
+ <login>Teste </login>
+ <lon>-46.6536395</lon>
+ <timestamp>2015-11-23 17:53:55</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5578534</lat>
+ <login>Teste </login>
+ <lon>-46.6526204</lon>
+ <timestamp>2015-11-23 17:54:37</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.557354</lat>
+ <login>Teste </login>
+ <lon>-46.6516675</lon>
+ <timestamp>2015-11-23 17:55:30</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5573183</lat>
+ <login>Teste </login>
+ <lon>-46.6516412</lon>
+ <timestamp>2015-11-23 17:56:02</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5568338</lat>
+ <login>Teste </login>
+ <lon>-46.6507216</lon>
+ <timestamp>2015-11-23 17:56:33</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5567965</lat>
+ <login>Teste </login>
+ <lon>-46.6506603</lon>
+ <timestamp>2015-11-23 17:57:02</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5563785</lat>
+ <login>Teste </login>
+ <lon>-46.6501964</lon>
+ <timestamp>2015-11-23 17:57:54</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5559157</lat>
+ <login>Teste </login>
+ <lon>-46.6508917</lon>
+ <timestamp>2015-11-23 17:59:07</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.553919</lat>
+ <login>Teste </login>
+ <lon>-46.6520446</lon>
+ <timestamp>2015-11-23 17:59:35</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5530061</lat>
+ <login>Teste </login>
+ <lon>-46.6518435</lon>
+ <timestamp>2015-11-23 18:00:11</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5513206</lat>
+ <login>Teste </login>
+ <lon>-46.6478133</lon>
+ <timestamp>2015-11-23 18:01:07</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5510808</lat>
+ <login>Teste </login>
+ <lon>-46.6479144</lon>
+ <timestamp>2015-11-23 18:01:35</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5491278</lat>
+ <login>Teste </login>
+ <lon>-46.6485488</lon>
+ <timestamp>2015-11-23 18:02:09</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5489778</lat>
+ <login>Teste </login>
+ <lon>-46.6486811</lon>
+ <timestamp>2015-11-23 18:02:36</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5489778</lat>
+ <login>Teste </login>
+ <lon>-46.6486811</lon>
+ <timestamp>2015-11-23 18:03:01</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5485045</lat>
+ <login>Teste </login>
+ <lon>-46.6488457</lon>
+ <timestamp>2015-11-23 18:03:09</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5462172</lat>
+ <login>Teste </login>
+ <lon>-46.6511308</lon>
+ <timestamp>2015-11-23 18:06:10</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5452887</lat>
+ <login>Teste </login>
+ <lon>-46.6518692</lon>
+ <timestamp>2015-11-23 18:07:01</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5457444</lat>
+ <login>Teste </login>
+ <lon>-46.6505953</lon>
+ <timestamp>2015-11-23 18:08:40</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5457444</lat>
+ <login>Teste </login>
+ <lon>-46.6505953</lon>
+ <timestamp>2015-11-23 18:08:51</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5452861</lat>
+ <login>Teste </login>
+ <lon>-46.6516328</lon>
+ <timestamp>2015-11-23 18:09:27</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5453199</lat>
+ <login>Teste </login>
+ <lon>-46.6518995</lon>
+ <timestamp>2015-11-23 18:09:53</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.545337</lat>
+ <login>Teste </login>
+ <lon>-46.6519283</lon>
+ <timestamp>2015-11-23 18:10:27</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5453756</lat>
+ <login>Teste </login>
+ <lon>-46.6519626</lon>
+ <timestamp>2015-11-23 18:11:18</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5453756</lat>
+ <login>Teste </login>
+ <lon>-46.6519626</lon>
+ <timestamp>2015-11-23 18:11:19</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5454</lat>
+ <login>Teste </login>
+ <lon>-46.6519344</lon>
+ <timestamp>2015-11-23 18:11:22</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.545426</lat>
+ <login>Teste </login>
+ <lon>-46.6518624</lon>
+ <timestamp>2015-11-23 18:13:03</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.547111</lat>
+ <login>Teste </login>
+ <lon>-46.6513502</lon>
+ <timestamp>2015-11-23 18:13:09</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5468692</lat>
+ <login>Teste </login>
+ <lon>-46.651382</lon>
+ <timestamp>2015-11-23 18:13:45</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5472274</lat>
+ <login>Teste </login>
+ <lon>-46.6518914</lon>
+ <timestamp>2015-11-23 18:13:49</timestamp>
+ </posicao>
+ <posicao>
+ <id>0</id>
+ <lat>-23.5472274</lat>
+ <login>Teste </login>
+ <lon>-46.6518914</lon>
+ <timestamp>2015-11-23 18:14:39</timestamp>
+ </posicao>
+</collection>

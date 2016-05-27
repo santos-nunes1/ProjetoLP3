@@ -21,7 +21,7 @@ public class ClienteRestNovaPosicao {
         pdata = pdata + "<timestamp>";
         Timestamp ts = new Timestamp(Calendar.getInstance().getTimeInMillis());
         pdata = pdata
-                + ts.toString() + "</timestamp><lat>0.00</lat><lon>10.00</lon></posicao>";
+                + ts.toString() + "</timestamp><lat>-23.496023</lat><lon>-46.875733</lon></posicao>";
 
         HttpClient cliente = HttpClients.createDefault();
         HttpPut httpput = new HttpPut("http://localhost:8080/AppFrontController/LP3Rest/lp3/novaposicao");

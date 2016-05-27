@@ -72,4 +72,12 @@ public class LP3RestService {
     public List<Posicao> listaPosicoes(@PathParam("login") final String login) {
         return posicaoBean.list(login);
     }
+    
+    
+    @GET
+    @Path("/posicoesJSON/{login}")
+    @Produces({"application/JSON"})
+    public List<Posicao> listaPosicoesJSON(@PathParam("login") final String login) {
+        return posicaoBean.list(login);
+    }
 }
