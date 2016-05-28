@@ -35,7 +35,8 @@ function init() {
 
 // carrega na variável userName o valor do campo escondido com id="userValue"
 
-    var userName = location.search.split('userName=')[1];;
+    var userName = location.search.split('userName=')[1];
+    ;
 
 //apresenta no console de execução do javascript o valor da variável userName
 
@@ -95,7 +96,7 @@ function init() {
 
             // cria ponto a partir de coordenadas em graus
             var point = [parseFloat(json[i].lon), parseFloat(json[i].lat)];
-            
+
             // converte para coordenadas de tela
             var pos = ol.proj.fromLonLat(point);
 
@@ -140,23 +141,28 @@ function init() {
             if (feature) {
                 popup.setPosition(evt.coordinate);
                 var xmlString;
-                
-                var urlString = 'http://localhost:8080/AppFrontController/LP3Rest/lp3/posicoes/';
+
+                var urlString = 'http://gateway.marvel.com/v1/public/characters?nameStartsWith=Thor&ts=05272016081616&apikey=8a362aa3872e40564830a7564af63707&hash=2c212cdb8a6bc3026e902df28b0af903';
                 console.log(urlString);
-                urlString = urlString.concat(userName);
+//                urlString = urlString.concat(userName);
                 console.log(urlString);
                 $.ajax({
                     url: urlString,
                     data: {
-                        format: 'xml'
+//                        format: 'JSON'
                     },
                     success: function (data) {
-                        xmlString = (new XMLSerializer()).serializeToString(data);
-                        console.log(xmlString);
+//                        xmlString = (new XMLSerializer()).serializeToString(data);
+//                        console.log(xmlString);
+                        var dataJ = data['data'];
+                        var results = dataJ['results'];
+                        var thumbnail = results[0].thumbnail;
+                        console.log(data['attributionHTML']);
                         $(element).popover({
                             'placement': 'top',
                             'html': true,
-                            'content': '<p>' + xmlString + '</p>'
+//                           content': '<img src=' + data['data'].results['name'] + '/>'
+                            'content': '<img src=' + thumbnail['path'] + '.jpg width="128" height="128"/>'
                         });
                         $(element).popover('show');
                     },
@@ -170,12 +176,12 @@ function init() {
             }
         });
         meuMapa.on('pointermove', function (e) {
-        if (e.dragging) {
-            $(element).popover('destroy');
-            return;
-        }
-        var pixel = meuMapa.getEventPixel(e.originalEvent);
-        var hit = meuMapa.hasFeatureAtPixel(pixel);
-    });
+            if (e.dragging) {
+                $(element).popover('destroy');
+                return;
+            }
+            var pixel = meuMapa.getEventPixel(e.originalEvent);
+            var hit = meuMapa.hasFeatureAtPixel(pixel);
+        });
     }
 }
