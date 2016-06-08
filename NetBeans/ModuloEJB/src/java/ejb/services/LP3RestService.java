@@ -72,12 +72,24 @@ public class LP3RestService {
     public List<Posicao> listaPosicoes(@PathParam("login") final String login) {
         return posicaoBean.list(login);
     }
-    
-    
+
     @GET
     @Path("/posicoesJSON/{login}")
     @Produces({"application/JSON"})
     public List<Posicao> listaPosicoesJSON(@PathParam("login") final String login) {
         return posicaoBean.list(login);
+    }
+
+    @GET
+    @Path("/marvel/{login}")
+    @Produces({"application/json"})
+    public String marvel(@PathParam("login") final String login) {
+
+        String apikey = "8a362aa3872e40564830a7564af63707";
+        String privatekey = "cf64ae1ac91ecb74a75f6ee47571d6d244409d6c";
+        String urlbase = "http://gateway.marvel.com/v1/public/characters";
+        LogaApi loga = new LogaApi(apikey, privatekey, urlbase, login);
+        String obj = loga.getResposta();
+        return obj;
     }
 }

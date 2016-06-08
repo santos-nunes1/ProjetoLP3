@@ -142,7 +142,8 @@ function init() {
                 popup.setPosition(evt.coordinate);
                 var xmlString;
 
-                var urlString = 'http://gateway.marvel.com/v1/public/characters?nameStartsWith=Thor&ts=05272016081616&apikey=8a362aa3872e40564830a7564af63707&hash=2c212cdb8a6bc3026e902df28b0af903';
+                var urlString = 'http://localhost:8080/AppFrontController/LP3Rest/lp3/marvel/';
+                urlString = urlString.concat(userName);
                 console.log(urlString);
 //                urlString = urlString.concat(userName);
                 console.log(urlString);
